@@ -1,6 +1,6 @@
 ## Hi there 👋
 
- 💫 About Me:
+##💫 About Me:
 Studying a BSc in Information and Knowledge Systems at the University of Pretoria.<br>Currently in my 3rd year of studies (2023-present).<br>Favourite languages are : C++, Java and JavaScript<br>Want to work in the field of Geographic Information systems (mining, climatology, tracking.)<br>experienced in ArcGis Pro and QGIS.<br>Matriculated with a Bachelors pass from Northcliff Highschool in 2022.<br><br>Currently working on a NoSQL database system manager for my 3rd year module COS 301
 
 ## 🌐 Connect:
